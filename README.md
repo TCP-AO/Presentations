@@ -9,3 +9,5 @@ Sep 14, 2020    EPF2020     Melchior Aelmans  It is time to replace MD5         
 Oct 19, 2020    NANOG80     Melchior Aelmans  It is time...to replace MD5
 Nov 10, 2020    DENOG12     Melchior Aelmans  It is time to replace MD5 with TCP-AO https://www.youtube.com/watch?v=UOBGjdTMN80
 ```
+
+In case you are interesting in learning more about TCP-AO, want to test and play with it yourself, want to collaborate, etc. please do reach out to Greg Hankins (greg.hankins@nokia.com) or Melchior Aelmans (maelmans@juniper.net).
